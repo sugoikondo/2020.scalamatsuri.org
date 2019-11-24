@@ -33,8 +33,8 @@
           height="20"
           style="border: none;"
         ></a>
-        <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" defer />
-        <script type="text/javascript" src="https://platform.twitter.com/widgets.js" defer />
+        <script type="application/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" defer />
+        <script type="application/javascript" src="https://platform.twitter.com/widgets.js" defer />
       </div>
     </section>
   </div>

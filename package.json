@@ -20,7 +20,9 @@
     "clean": "rimraf dist",
     "predeploy": "run-s lint build generate",
     "deploy:hosting": "firebase deploy --only hosting",
-    "deploy:functions": "firebase deploy --only functions"
+    "deploy:functions": "firebase deploy --only functions",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   },
   "dependencies": {
     "@bazzite/nuxt-optimized-images": "^0.2.1",
@@ -45,11 +47,18 @@
     "xml-js": "^1.6.11"
   },
   "devDependencies": {
+    "@babel/core": "^7.7.2",
     "@nuxtjs/eslint-config": "^0.0.1",
+    "@storybook/addon-actions": "^5.2.6",
+    "@storybook/addon-links": "^5.2.6",
+    "@storybook/addons": "^5.2.6",
+    "@storybook/vue": "^5.2.6",
     "@vue/test-utils": "^1.0.0-beta.27",
     "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "^8.2.1",
     "babel-jest": "^23.6.0",
+    "babel-loader": "^8.0.6",
+    "babel-preset-vue": "^2.0.2",
     "eslint": "^5.0.1",
     "eslint-config-standard": ">=12.0.0",
     "eslint-loader": "^2.0.0",
