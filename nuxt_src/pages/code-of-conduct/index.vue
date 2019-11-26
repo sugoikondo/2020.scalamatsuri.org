@@ -1,5 +1,5 @@
 <i18n>
-## language=yaml
+
 en:
   title: Code of Conduct
   coc_manner_video_title: CoC Manner Video

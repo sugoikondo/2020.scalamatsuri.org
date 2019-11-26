@@ -10,7 +10,13 @@ module.exports = {
       },
       {
         test: /\.scss$/,
-        loaders: ['style-loader', 'css-loader', 'sass-loader']
+        loaders: ['style-loader', 'css-loader', 'sass-loader', {
+          loader: 'sass-resources-loader',
+          options: {
+            resources: [rootPath + '/assets/scss/style.scss'],
+            include: rootPath
+          }
+        }],
       },
       {
         test: /\.pug$/,
@@ -31,11 +37,16 @@ module.exports = {
           limit: 1000, // 1kB
           name: 'fonts/[name].[hash:7].[ext]'
         }
+      },
+      {
+        test: /\.vue$/,
+        loader: 'vue-docgen-loader',
+        enforce: 'post'
       }
     ],
   },
   resolve: {
-    extensions: ['.js', '.vue', '.json'],
+    extensions: ['.js', '.vue', '.json', '.yaml'],
     alias: {
       '@': rootPath,
       '~': rootPath,

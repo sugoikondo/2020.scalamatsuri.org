@@ -1,5 +1,5 @@
 <i18n>
-## language=yaml
+
 en:
   alt: ScalaMatsuri 2020 The largest international Scala conference in Asia on 15th-16th May 2020 Tokyo International Exchange Center
 ja:

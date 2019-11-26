@@ -11,7 +11,7 @@
 </template>
 
 <i18n>
-## language=yaml
+
   en:
     defaultSiteName: ScalaMatsuri 2020
     defaultSiteSubTitle: The largest international Scala conference in Asia

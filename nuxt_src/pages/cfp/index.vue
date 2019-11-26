@@ -1,5 +1,5 @@
 <i18n>
-## language=yaml
+
 en:
   title: Come share your stories at ScalaMatsuri 2020!
   section1_1: |

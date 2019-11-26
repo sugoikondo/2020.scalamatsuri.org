@@ -1,5 +1,5 @@
 <i18n>
-## language=yaml
+
   en:
     length : "トークの長さ"
     lang : "発表言語"

@@ -1,5 +1,5 @@
 <i18n>
-## language=yaml
+
   en:
     sponsor: "Sponsor"
     access: "Access"

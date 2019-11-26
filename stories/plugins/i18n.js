@@ -1,4 +1,5 @@
 import Vue from 'vue'
+import { withInfo } from 'storybook-addon-vue-info'
 import VueI18n from 'vue-i18n'
 
 Vue.use(VueI18n)

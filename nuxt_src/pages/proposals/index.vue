@@ -1,5 +1,5 @@
 <i18n>
-## language=yaml
+
   en:
     title: "Proposals"
     en_90: "90-minute sessions in English"

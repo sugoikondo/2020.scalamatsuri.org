@@ -1,5 +1,4 @@
 <i18n>
-## language=yaml
   en:
     add_hatena_bookmark: "Add this entry to Hatena bookmark"
   ja:

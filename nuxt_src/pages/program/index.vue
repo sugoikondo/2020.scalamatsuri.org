@@ -1,5 +1,5 @@
 <i18n>
-## language=yaml
+
 en:
   title: Program
   day1_header: "6/27 Workshop Day"

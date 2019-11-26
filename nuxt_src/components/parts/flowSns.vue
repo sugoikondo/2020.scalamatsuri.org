@@ -1,5 +1,4 @@
 <i18n>
-## language=yaml
   en:
     share_with_friends: "Share it with your friends!"
     add_hatena_bookmark: "Add this entry to Hatena bookmark"

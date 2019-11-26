@@ -1,5 +1,5 @@
 <i18n>
-## language=yaml
+
 en:
   event_overview: |
     It is packed with fun and memorable events such as sponsored exhibits, Japanese food stalls and social gatherings.<br>

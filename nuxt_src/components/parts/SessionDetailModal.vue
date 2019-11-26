@@ -1,5 +1,5 @@
 <i18n>
-## language=yaml
+
   en:
     lang: "Language of the"
     audience_level: "Audience level"

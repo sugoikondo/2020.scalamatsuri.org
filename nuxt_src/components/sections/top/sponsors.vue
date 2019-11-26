@@ -1,5 +1,5 @@
 <i18n>
-## language=yaml
+
 en:
   sponsor_overview: |
     We are looking for sponsors who can support ScalaMatsuri, Asia's largest international Scala conference.<br>

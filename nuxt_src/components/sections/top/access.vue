@@ -1,5 +1,5 @@
 <i18n>
-## language=yaml
+
 en:
   access_link: Accommodation and facilities near the venue
   time: DateTime

@@ -1,5 +1,5 @@
 <i18n>
-## language=yaml
+
 en:
   session_overview: |
     3 days with over 40 sessions and workshops by Scala engineers!<br>
