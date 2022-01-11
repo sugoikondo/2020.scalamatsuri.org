@@ -16,7 +16,7 @@
   "main": "lib/index.js",
   "dependencies": {
     "@types/js-yaml": "^3.12.1",
-    "firebase-admin": "^8.0.0",
+    "firebase-admin": "^9.0.0",
     "firebase-functions": "^3.1.0",
     "js-yaml": "^3.13.1"
   },
