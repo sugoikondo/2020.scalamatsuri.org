@@ -23,7 +23,7 @@
     "deploy:functions": "firebase deploy --only functions"
   },
   "dependencies": {
-    "@bazzite/nuxt-optimized-images": "^0.2.1",
+    "@bazzite/nuxt-optimized-images": "^0.4.0",
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/pwa": "^2.6.0",
     "cross-env": "^5.2.0",
@@ -34,10 +34,10 @@
     "jimp": "^0.8.4",
     "js-yaml-loader": "^1.2.2",
     "lqip-loader": "^2.2.0",
-    "nuxt": "^2.9.1",
+    "nuxt": "^2.15.0",
     "nuxt-i18n": "^6.0.2",
     "nuxt-mq": "^2.0.1",
-    "responsive-loader": "^1.2.0",
+    "responsive-loader": "^2.0.0",
     "sanitize.css": "^8.0.0",
     "vue-lazyload": "^1.3.3",
     "vue2-google-maps": "^0.10.6",
